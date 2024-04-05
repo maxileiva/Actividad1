@@ -1,0 +1,165 @@
+/**
+MENU DE LA IZQUIERDA TODAS LAS PAGINAS Y PRINCIPAL
+**/
+
+.container-left {
+
+    color: #ECF4D6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #ECF4D6;
+    left: 0%;
+    width: 200px;
+    height: 150vh;
+    border: 3px solid white;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+   
+}
+
+.container-left ul a {
+    text-decoration: none ;
+    margin: 0;
+    padding-right: 20px;
+    left: 0;
+    padding: 15px;
+    position: fixed;
+ 
+    
+}
+
+.container-left ul li {
+    margin-bottom: 10px;
+
+}
+
+.body {
+    
+    background-color: #9AD0C2;
+    margin-left: 300px;
+
+}
+
+.body h1 {
+    text-align: center;
+    border: 3px;
+    font-size: 35px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.body p {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.body h2 {
+    font-size: 25px;
+}
+
+
+
+
+
+
+/**
+PAGINA GATO
+**/
+
+.gatopage {
+    
+    background-color: #9AD0C2;
+    margin-left: 300px;
+
+}
+
+.gatopage h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.gatopage p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+
+}
+ .gatopage img {
+
+    display: block;
+    margin: auto;
+    padding: 50px;
+    width: 500px;
+ }
+
+ .gatopage a {
+
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+ }
+
+.gatopage ulgatos {
+    text-align: center;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+ /**
+PAGINA PERROS
+**/
+
+.perropage {
+    
+    background-color: #9AD0C2;
+    margin-left: 300px;
+
+}
+
+.perropage h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.perropage p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+
+}
+ .perropage img {
+
+    display: block;
+    margin: auto;
+    padding: 50px;
+    width: 500px;
+ }
+
+ .perropage a {
+
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+
+.perropage ulperros {
+    text-align: center;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
